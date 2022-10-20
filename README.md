@@ -12,6 +12,6 @@ Christopher Molnar, "Interpretable Machine Learning: A Guide for Making Black Bo
 
 "Partial Dependence and Individual Conditional Expectation plots", Sci-kit Learn User Guide, https://scikit-learn.org/stable/modules/partial_dependence.html.
 
-Seldon Technologies Ltd, "Alibi Documentation," Release 0.8.1 dev, October 12, 2022.
+Seldon Technologies Ltd, "Alibi Documentation," Release 0.8.1 dev, October 12, 2022, https://readthedocs.org/projects/alibi/downloads/pdf/latest/.
 
 Dana Jomar, "PyALE," https://github.com/DanaJomar/PyALE.
