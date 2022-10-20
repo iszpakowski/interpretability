@@ -1,4 +1,4 @@
-# interpretability
+# Interpretability
 
 This repository contains an example case for applying interpretability and feature selection techniques to machine learning models.
 
