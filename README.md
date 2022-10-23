@@ -15,3 +15,5 @@ Christopher Molnar, "Interpretable Machine Learning: A Guide for Making Black Bo
 Seldon Technologies Ltd, "Alibi Documentation," Release 0.8.1 dev, October 12, 2022, https://readthedocs.org/projects/alibi/downloads/pdf/latest/.
 
 Dana Jomar, "PyALE," https://github.com/DanaJomar/PyALE.
+
+Seppe van den Broucke, "Discovering Interaction Effects in Ensemble Models," https://blog.macuyiko.com/post/2019/discovering-interaction-effects-in-ensemble-models.html.
