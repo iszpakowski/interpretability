@@ -16,4 +16,6 @@ Seldon Technologies Ltd, "Alibi Documentation," Release 0.8.1 dev, October 12, 2
 
 Dana Jomar, "PyALE," https://github.com/DanaJomar/PyALE.
 
-Seppe van den Broucke, "Discovering Interaction Effects in Ensemble Models," https://blog.macuyiko.com/post/2019/discovering-interaction-effects-in-ensemble-models.html.
+Seppe van den Broucke, "Discovering Interaction Effects in Ensemble Models," February 22, 2019, https://blog.macuyiko.com/post/2019/discovering-interaction-effects-in-ensemble-models.html.
+
+Seppe van den Broucke, "Revisiting Discovery of Interaction Effects," January 3, 2021, https://blog.macuyiko.com/post/2021/revisiting-discovery-of-interaction-effects.html.
