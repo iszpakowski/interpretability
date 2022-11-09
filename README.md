@@ -2,7 +2,7 @@
 
 This repository contains an example case for applying interpretability and feature selection techniques to machine learning models.
 
-Please see blog post for additional context: 
+Please see blog post for additional context: [How Interpretability Can Improve Machine Learning Performance](https://medium.com/@iszpakowski/how-interpretability-can-improve-machine-learning-model-performance-925543432f7f)
 
 ## Resources & References
 
