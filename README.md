@@ -21,3 +21,5 @@ Dana Jomar, "PyALE," https://github.com/DanaJomar/PyALE.
 Seppe van den Broucke, "Discovering Interaction Effects in Ensemble Models," February 22, 2019, https://blog.macuyiko.com/post/2019/discovering-interaction-effects-in-ensemble-models.html.
 
 Seppe van den Broucke, "Revisiting Discovery of Interaction Effects," January 3, 2021, https://blog.macuyiko.com/post/2021/revisiting-discovery-of-interaction-effects.html.
+
+Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin, "'Why Should I Trust You?' Explaining the Predictions of Any Classifier," August 9, 2016, https://arxiv.org/pdf/1602.04938.pdf.
